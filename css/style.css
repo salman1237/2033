@@ -15,4 +15,10 @@ body{
     height: 700px;
     background-image: url('/image/his_sofija-05-19-235_0.jpg');
     background-size: cover;
+    text-align: center;
+}
+.txt{
+    color:aqua;
+    padding: 5rem;
+    text-align: left;
 }
